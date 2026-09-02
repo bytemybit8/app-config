@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "issued_at": "2026-09-02T21:37:57Z",
+  "gateway_base_url": "https://r-gateway.lafoc.de",
+  "discovery_url": "https://raw.githubusercontent.com/bytemybit8/app-config/main/config.json",
+  "key_id": "bootstrap-2026a",
+  "signature": "wdpkstz3syPNEwdl_62OMDGEMxbrefLuashLpwTsmL3jcAG8Bg5PiMYL9UrjBa8VQtEnEav70wo-P9huhSpCAg=="
+}
